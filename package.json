@@ -1,0 +1,25 @@
+{
+  "name": "postcss-modules-emoji-classname",
+  "version": "1.0.0",
+  "description": "A CSS Modules transform exported classname into emoji classname",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib"
+  },
+  "keywords": [
+    "css-modules",
+    "postcss",
+    "plugin",
+    "emoji"
+  ],
+  "author": "Jason Chung",
+  "license": "MIT",
+  "dependencies": {
+    "emojis-list": "^1.0.0",
+    "postcss": "^5.0.12"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18"
+  }
+}
