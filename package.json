@@ -1,6 +1,6 @@
 {
   "name": "postcss-modules-emoji-classname",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CSS Modules transform exported classname into emoji classname",
   "main": "lib/index.js",
   "scripts": {
