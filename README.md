@@ -29,7 +29,7 @@ npm install --save-dev postcss-modules-emoji-classname
 ```
 
 ## Usage
-```
+```js
 import postcss from 'postcss';
 import values from 'postcss-modules-values';
 import localByDefault from 'postcss-modules-local-by-default';
